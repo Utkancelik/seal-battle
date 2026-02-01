@@ -1,0 +1,68 @@
+# =========================
+# Unity generated (ASLA commitlenmez)
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# Build outputs (mobil)
+# =========================
+[Bb]uild/
+[Bb]uilds/
+*.apk
+*.aab
+*.ipa
+
+# =========================
+# IDE / Editor
+# =========================
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.svd
+
+# =========================
+# Unity cache / crash
+# =========================
+Sysinfo.txt
+crashlytics-build.properties
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Addressables (solo dev için genelde ignore)
+# =========================
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/AddressableAssetsData/*/*.json*
+/Assets/AddressableAssetsData/*/*.hash*
+/Assets/AddressableAssetsData/*/*.bundle*
+
+# =========================
+# Backup / temp
+# =========================
+*.bak
+*.tmp
+*.orig
+
+# =========================
+# IMPORTANT UNITY RULE
+# =========================
+# .meta dosyaları ASLA ignore edilmez
